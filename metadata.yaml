@@ -1,0 +1,38 @@
+_repo: Thoughts-out-of-Season-Part-I_5652
+contributor:
+  translator:
+    agent_name: Ludovici, Anthony M. (Anthony Mario)
+    aliases:
+    - Ludovici, Tony
+    - Ludovici, A. M. (Anthony Mario)
+    - Ludovici, Anthony Mario
+    birthdate: 1882
+    deathdate: 1971
+    gutenberg_agent_id: '1830'
+    url: http://www.gutenberg.org/2009/agents/1830
+creator:
+  author:
+    agent_name: Nietzsche, Friedrich Wilhelm
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '779'
+    url: http://www.gutenberg.org/2009/agents/779
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Strauss, David Friedrich, 1808-1874'
+- !lcc 'B'
+- !lcsh 'Wagner, Richard, 1813-1883'
+- !lcsh 'Philosophy, German'
+tableOfContents: David Strauss, the confessor and the writer -- Richard Wagner in
+  Bayreuth.
+title: Thoughts out of Season, Part I
+url: http://www.gutenberg.org/ebooks/5652
