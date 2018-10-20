@@ -1,5 +1,5 @@
 _repo: Thoughts-out-of-Season-Part-I_5652
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Ludovici, Anthony M. (Anthony Mario)
@@ -38,6 +38,7 @@ subjects:
 - !lcc 'B'
 - !lcsh 'Wagner, Richard, 1813-1883'
 - !lcsh 'Philosophy, German'
+- GITenberg
 tableOfContents: David Strauss, the confessor and the writer -- Richard Wagner in
   Bayreuth.
 title: Thoughts out of Season, Part I
